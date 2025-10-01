@@ -7,6 +7,8 @@ Building on these insights, the future state is defined by outlining desired enh
 To ensure effective management and long-term sustainability, the document presents an operational and governance model that incorporates best practices, role-based access control, and compliance frameworks. Finally, it provides a structured implementation strategy with actionable steps, risk mitigation approaches, and a feasible project schedule. Where relevant, drawings and sketches will be included to support and illustrate the conceptual framework.
 
 # Table of Contents
+<details>
+  <summary>Table of Contents</summary>
 
 - [Introduction & Objectives](#introduction--objectives)
   - [Workshop Scope & Discussion Points](#workshop-scope--discussion-points)
@@ -37,6 +39,7 @@ To ensure effective management and long-term sustainability, the document presen
   - [Next Steps & Accountability](#next-steps--accountability)
 - [Appendix](#appendix)
   - [Footnotes](#footnotes)
+</details>
 
 # Introduction & Objectives
 
