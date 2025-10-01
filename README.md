@@ -6,6 +6,38 @@ Building on these insights, the future state is defined by outlining desired enh
 
 To ensure effective management and long-term sustainability, the document presents an operational and governance model that incorporates best practices, role-based access control, and compliance frameworks. Finally, it provides a structured implementation strategy with actionable steps, risk mitigation approaches, and a feasible project schedule. Where relevant, drawings and sketches will be included to support and illustrate the conceptual framework.
 
+# Table of Contents
+
+- [Introduction & Objectives](#introduction--objectives)
+  - [Workshop Scope & Discussion Points](#workshop-scope--discussion-points)
+  - [Key Stakeholders & Responsibilities](#key-stakeholders--responsibilities)
+- [Current State Analysis](#current-state-analysis)
+  - [Enterprise Overview](#enterprise-overview)
+  - [Location Overview](#location-overview)
+  - [Infrastructure Overview](#infrastructure-overview)
+  - [DNS Overview](#dns-overview)
+  - [DNS Security Considerations](#dns-security-considerations)
+  - [DHCP Overview](#dhcp-overview)
+  - [DHCP Security Considerations](#dhcp-security-considerations)
+  - [Active Directory Integration](#active-directory-integration)
+  - [IPAM Overview](#ipam-overview)
+  - [IPAM Security Considerations](#ipam-security-considerations)
+- [Future State Definition](#future-state-definition)
+  - [Requirements Engineering](#requirements-engineering)
+  - [DNS Architecture Optimization](#dns-architecture-optimization)
+  - [DHCP Strategy Refinement](#dhcp-strategy-refinement)
+  - [IPAM Enhancements](#ipam-enhancements)
+  - [Network Segmentation & Zero Trust](#network-segmentation--zero-trust)
+- [Operational & Governance Model](#operational--governance-model)
+  - [Role-Based Access & Change Control](#role-based-access--change-control)
+  - [Monitoring & Compliance Reporting](#monitoring--compliance-reporting)
+- [Implementation Strategy](#implementation-strategy)
+  - [Quick Wins & Immediate Actions](#quick-wins--immediate-actions)
+  - [Long-Term Roadmap](#long-term-roadmap)
+  - [Next Steps & Accountability](#next-steps--accountability)
+- [Appendix](#appendix)
+  - [Footnotes](#footnotes)
+
 # Introduction & Objectives
 
 ## Workshop Scope & Discussion Points
